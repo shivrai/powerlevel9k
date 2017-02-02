@@ -1284,7 +1284,8 @@ $(print_icon 'MULTILINE_SECOND_PROMPT_PREFIX')"
       RPROMPT_SUFFIX=''
     fi
   else
-    PROMPT="%f%b%k$(build_left_prompt)"
+    PROMPT="%f%b%k$(build_left_prompt)
+▶ "
     RPROMPT_PREFIX=''
     RPROMPT_SUFFIX=''
   fi
