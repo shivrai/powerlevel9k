@@ -97,7 +97,8 @@ case $POWERLEVEL9K_MODE in
       RUBY_ICON                      $'\uF219 '             # 
       AWS_ICON                       $'\uF270'              # 
       AWS_EB_ICON                    $'\U1F331 '            # 🌱
-      BACKGROUND_JOBS_ICON           $'\uF013 '             # 
+      # BACKGROUND_JOBS_ICON         $'\uF013 '             # 
+      BACKGROUND_JOBS_ICON           $'\uF013 '             # 
       TEST_ICON                      $'\uF291'              # 
       TODO_ICON                      $'\u2611'              # ☑
       BATTERY_ICON                   $'\U1F50B'             # 🔋
@@ -112,7 +113,8 @@ case $POWERLEVEL9K_MODE in
       FREEBSD_ICON                   $'\U1F608 '            # 😈
       LINUX_ICON                     $'\uF17C'              # 
       SUNOS_ICON                     $'\uF185 '             # 
-      HOME_ICON                      $'\uF015'              # 
+      # HOME_ICON                    $'\uF015'              # 
+      HOME_ICON                      $'\U1F5BF'             # 🖿
       HOME_SUB_ICON                  $'\uF07C'              # 
       FOLDER_ICON                    $'\uF115'              # 
       NETWORK_ICON                   $'\uF09E'              # 
